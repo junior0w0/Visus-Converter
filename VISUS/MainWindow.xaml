@@ -1,0 +1,121 @@
+﻿<Window x:Class="UTS_Kelompok3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UTS_Kelompok3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="480" Width="800">
+
+    <StackPanel Background="LightBlue">
+        <Frame x:Name="Main" NavigationUIVisibility="Hidden"/>
+        <!-- Navbar -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+
+            <StackPanel Grid.Column="0">
+                <Label  FontSize="20"  
+                        Content="LOGO"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1">
+                <Label  FontSize="20" 
+                        HorizontalAlignment="Right" 
+                        Content="ICON"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="2">
+                <Button Margin="10 0 10 5"  Content="LogIn" Click="BtnClickLogin"/>
+                <Button Margin="10 0 10 0"  Content="SignUp" Click="BtnClickSignup"/>
+            </StackPanel>
+        </Grid>
+
+        <!-- Tagline -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Background="LightSlateGray">
+                <Label FontSize="22"
+                        HorizontalContentAlignment="Center">
+                    Getting easier with VISUS.
+                </Label>
+
+                <Label FontSize="22"
+                        HorizontalContentAlignment="Center">
+                    Every tool you need in here.
+                </Label>
+            </StackPanel>
+        </Grid>
+        
+        <!-- Choosing File -->
+        <Border Background="LightSlateGray" Padding="90 10">
+            <Grid Background="LightGray"
+                  Margin="0 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel>
+                    <Label FontSize="20"
+                           HorizontalContentAlignment="Center">
+                        Drag and Drop the File
+                    </Label>
+
+                    <Label Margin="0 40 0 0"
+                           FontSize="20"
+                           HorizontalContentAlignment="Center">
+                        OR
+                    </Label>
+
+                    <Label FontSize="20"
+                           HorizontalContentAlignment="Center">
+                        Choose your File
+                    </Label>
+
+                    <Button FontSize="15"
+                            Margin="250 10"
+                            Content="choose file"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- Footer -->
+        <Border Background="LightGoldenrodYellow" Padding="15">
+            <Grid Background="LightGoldenrodYellow">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0" 
+                            Margin="0 0 0 0">
+                    <Label>
+                        Copyright 2022 Kelompok 3 |
+                    </Label>
+                    <Label>
+                        Interaksi Manusia dan Komputer
+                    </Label>
+                </StackPanel>
+
+                <StackPanel Grid.Column="2" 
+                            Margin="0 0 0 0">
+                    <Label HorizontalAlignment="Center">
+                        About Us
+                    </Label>
+                    <Label HorizontalAlignment="Center">
+                        ICON1 | ICON2 | ICON3 | ICON4
+                    </Label>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+    </StackPanel>
+</Window>
