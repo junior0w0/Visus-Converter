@@ -1,0 +1,48 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\bin\Debug\netcoreapp3.1\UTS_Kelompok3.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\bin\Debug\netcoreapp3.1\UTS_Kelompok3.deps.json
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\bin\Debug\netcoreapp3.1\UTS_Kelompok3.runtimeconfig.json
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\bin\Debug\netcoreapp3.1\UTS_Kelompok3.runtimeconfig.dev.json
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\bin\Debug\netcoreapp3.1\UTS_Kelompok3.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\bin\Debug\netcoreapp3.1\UTS_Kelompok3.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\Login_Page.g.cs
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\SignUp_page.g.cs
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3_MarkupCompile.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3_MarkupCompile.lref
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\Login_Page.baml
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\SignUp_page.baml
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.g.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.AssemblyInfo.cs
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.genruntimeconfig.cache
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\bin\Debug\netcoreapp3.1\UTS_Kelompok3.exe
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\bin\Debug\netcoreapp3.1\UTS_Kelompok3.deps.json
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\bin\Debug\netcoreapp3.1\UTS_Kelompok3.runtimeconfig.json
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\bin\Debug\netcoreapp3.1\UTS_Kelompok3.runtimeconfig.dev.json
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\bin\Debug\netcoreapp3.1\UTS_Kelompok3.dll
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\bin\Debug\netcoreapp3.1\UTS_Kelompok3.pdb
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\Login_Page.g.cs
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\SignUp_page.g.cs
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3_MarkupCompile.cache
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3_MarkupCompile.lref
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\Login_Page.baml
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\SignUp_page.baml
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.g.resources
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.AssemblyInfo.cs
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.dll
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.pdb
+C:\Users\USER\Downloads\Coba UTS\Coba UTS\UTS_Kelompok3\obj\Debug\netcoreapp3.1\UTS_Kelompok3.genruntimeconfig.cache
